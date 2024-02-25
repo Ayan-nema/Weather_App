@@ -1,4 +1,7 @@
 
 
-https://github.com/Ayan-nema/Weather_App/assets/112955177/b5bb7b5f-bac0-416d-83f1-c7827d5e098f
+
+
+
+https://github.com/Ayan-nema/Weather_App/assets/112955177/0c65969b-549d-4722-aaf7-28264b271aa4
 
