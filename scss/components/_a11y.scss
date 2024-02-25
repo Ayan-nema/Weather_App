@@ -1,0 +1,21 @@
+//a11y is a common name for accessibility
+.offscreen {
+    position: absolute;
+    left: -10000px;//this is done so that the text remains visible to screen reader but not on screen
+  }
+  
+  .skip-link {
+    position: absolute;
+    top: -999px;
+    left: 0;
+    background: $text-shadow-color;
+    padding: 14px;
+    z-index: 1;
+    color: $font-color;
+  }
+  
+  .skip-link:focus,
+  .skip-link:active {
+    top: auto;
+    left: auto;
+  }
